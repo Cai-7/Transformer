@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+checkpoints/
+qwen_opus_enfr_lora/
+output.txt
+.vscode/
